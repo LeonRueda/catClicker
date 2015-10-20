@@ -1,0 +1,27 @@
+{
+  "name": "catClicker",
+  "authors": [
+    "Phlammariont <phlammariont@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "cats",
+    "clicks"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  }
+}

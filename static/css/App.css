@@ -1,0 +1,67 @@
+/*
+    Document   : static/css/App.css
+    Created on : 2015-10-18 12:39 AM
+    Author     : Phlammariont
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+.container-fluid {
+    width: 100%;
+    min-height: 20%;
+    background-color: BLUE;
+    position: relative;
+}
+.cat-clicker-area{
+    width: 80%;
+    position: relative;
+    float: right;
+}
+.cat-picker-area{
+    width: 20%;
+    min-height: 200px;
+    position: relative;
+    background-color: gray;
+    float: left;
+}
+.cat-circle {
+    width: 20%;
+    border: 75px solid rgba(128, 128, 128, 0.5);
+    border-radius: 50%;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+.counter-container {
+    font-size: 83px;
+    margin: 60px auto;
+    text-align: center;
+    color: gray;
+}
+.cat-name-container {
+    width: 20%;
+    border: 5px solid gray;
+    position: absolute;
+    top: 87%;
+    left: 35%;
+}
+.cat-name-picker-container{
+    width: 80%;
+    border: 5px solid gray;
+    position: absolute;
+    top: 50%;
+    left: 9%;
+}
+.cat-name{
+    font-size: 50px;
+    margin: 0px auto;
+    text-align: center;
+    color: gray;
+}
+.cat-picker-name{
+    font-size: 25px;
+    margin: 5px auto;
+    text-align: center;
+    color: gray;
+}
