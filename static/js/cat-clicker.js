@@ -77,7 +77,7 @@ App = {
         this.$countContainer.parent().css('height', this.$countContainer.parent().width());
         this.$catContainer.hide();
     }
-}
+};
 cats = [
     {
         name: "Farre-Cat",
