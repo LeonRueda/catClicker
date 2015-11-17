@@ -25,6 +25,13 @@
     background-color: gray;
     float: left;
 }
+.cat-admin-area{
+    width: 20%;
+    min-height: 200px;
+    position: relative;
+    background-color: white;
+    float: left;
+}
 .cat-circle {
     width: 20%;
     border: 75px solid rgba(128, 128, 128, 0.5);
