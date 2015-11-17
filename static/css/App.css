@@ -10,7 +10,6 @@
 .container-fluid {
     width: 100%;
     min-height: 20%;
-    background-color: BLUE;
     position: relative;
 }
 .cat-clicker-area{
